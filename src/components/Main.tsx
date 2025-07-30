@@ -1,6 +1,6 @@
 import "../assets/styles/Main.scss";
 import { FaGoogleDrive, FaLinkedin } from "react-icons/fa";
-import mainBg from "../assets/videos/main-bg.mp4";
+import mainBg from "../assets/videos/main-bg.webm";
 
 function Main() {
   return (

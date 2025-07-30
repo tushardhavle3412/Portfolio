@@ -1,5 +1,5 @@
 import "../assets/styles/Main.scss";
-import { FaGoogleDrive, FaLinkedin } from "react-icons/fa";
+// import { FaGoogleDrive, FaLinkedin } from "react-icons/fa";
 import mainBg from "../assets/videos/main-bg.webm";
 
 function Main() {
@@ -15,7 +15,7 @@ function Main() {
           playsInline
         />
         <div className="background-overlay"></div>
-        <div className=" about-content-wrapper content z-10">
+        {/* <div className=" about-content-wrapper content z-10">
           <div className="name-role-wrapper">
             <span className="name">TUSHAR DHAWALE</span>
             <span className="role">MOTION GRAPHIC DESIGNER</span>
@@ -53,7 +53,7 @@ function Main() {
               <FaGoogleDrive />
             </a>
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   );
